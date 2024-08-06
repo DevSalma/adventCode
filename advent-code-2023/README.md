@@ -2,6 +2,10 @@
 
 This is the README for my 2023 Advent code Python practice.
 
+There might be too many comments in the code but this is for me to be able to contextualise what the code is doing. 
+
+Essentially, telling myself I'm not just writing code, I understand the code I write and can explain it to someone(Good skill for interviews)!
+
 Here is a list for all days and if I complete any, I will check the box:
 - [ ]  Day 1
 - [ ]  Day 2
